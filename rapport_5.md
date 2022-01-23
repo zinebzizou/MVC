@@ -56,7 +56,7 @@ Now, our application look like that !
 
 
 <p align="center">
-  <img width="300" height="200" src="todo.jpeg">
+  <img width="400" height="300" src="todo.jpeg">
 </p>
 
 <br>
@@ -287,7 +287,7 @@ void ToDoZ::on_actionClose_triggered()
 
 Our application look like that !
 <p align="center">
-  <img width="300" height="200" src="result.jpeg">
+  <img width="400" height="300" src="result.jpeg">
 </p>
 
 
@@ -313,7 +313,7 @@ This is how looks our application when we hide one view
 .
 
 <p align="center">
-  <img width="300" height="200" src="hide.jpeg">
+  <img width="400" height="300" src="hide.jpeg">
 </p>
 
 
@@ -398,7 +398,7 @@ QFile file(myFile);
 ```
 * Final Look !
 <p align="center">
-  <img width="350" height="300" src="mvc.jpeg">
+  <img width="400" height="300" src="mvc.jpeg">
 </p>
 
  <br>
