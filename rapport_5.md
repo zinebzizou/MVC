@@ -43,9 +43,9 @@ Here is an overveiw of the application:
 
 
 <p float="left">
-  <img src="menu_file.jpeg" width="90" />
-  <img src="menu_option.jpeg" width="90" /> 
-  <img src="menu_help.jpeg" width="90" />
+  <img src="menu_file.jpeg" width="120" />
+  <img src="menu_option.jpeg" width="120" /> 
+  <img src="menu_help.jpeg" width="120" />
 </p>
 
 Now, our application look like that !
