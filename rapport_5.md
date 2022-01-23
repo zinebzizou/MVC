@@ -28,7 +28,9 @@ MVC consists of three kinds of objects:
 
 Here is an overveiw of the application:
 
- ![](overview.png)
+<p align="center">
+  <img width="400" height="300" src="overview.png">
+</p>
  <br>
 
  # Let's start !
