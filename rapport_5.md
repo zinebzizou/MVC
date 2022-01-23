@@ -2,6 +2,8 @@
 <br>
 
 
+> Introduction
+
 ***Model–view–controller(MVC)***  is a software design pattern commonly used for developing user interfaces that divide the related program logic into three interconnected elements. This is done to separate internal representations of information from the ways information is presented to and accepted from the user.
 
 MVC consists of three kinds of objects:
@@ -43,9 +45,9 @@ Here is an overveiw of the application:
 
 
 <p float="left">
-  <img src="menu_file.jpeg" width="120" />
-  <img src="menu_option.jpeg" width="120" /> 
-  <img src="menu_help.jpeg" width="120" />
+  <img src="menu_file.jpeg" width="200" />
+  <img src="menu_option.jpeg" width="200" /> 
+  <img src="menu_help.jpeg" width="200" />
 </p>
 
 Now, our application look like that !
