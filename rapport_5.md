@@ -327,7 +327,7 @@ This is how looks our application when we hide one view
 
 For the mvc version we will change in the first project, the Tasks class is the same ,but the ToDoZ class will know some changes.
 
-In the header file we will add some methods:
+In the header file we will add :
 
 >The header File (ToDoZmvc.h)
 ```java script
